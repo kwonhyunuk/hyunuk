@@ -1,0 +1,4 @@
+﻿  project1.cpp
+C:\Users\didiq\source\repos\project1\project1\project1.cpp(27,7): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\didiq\source\repos\project1\project1\project1.cpp(117,17): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  project1.vcxproj -> C:\Users\didiq\source\repos\project1\Debug\project1.exe
